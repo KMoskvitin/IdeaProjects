@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Assistent</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="now">Сейчас</string>
+    <string name="temperature">температура</string>
+    <string name="celsius">градусов по Цельсию, влажность</string>
+    <string name="wind">ветер</string>
+    <string name="speed">м/с</string>
+    <string name="error_weather">Ошибка загрузки погоды</string>
+    <string name="north">северный</string>
+    <string name="northeast">северо-восточный</string>
+    <string name="east">восточный</string>
+    <string name="southeast">юго-восточный</string>
+    <string name="south">южный</string>
+    <string name="southwest">юго-западный</string>
+    <string name="west">западный</string>
+    <string name="northwest">северо-западный</string>
+    <string name="anecdote">анекдот</string>
+    <string name="weather">Погода</string>
+    <string name="currency">Курс</string>
+
+</resources>
